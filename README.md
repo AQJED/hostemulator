@@ -128,6 +128,6 @@ The jet starts at a local position that corresponds to a real-world location ove
 ## 🧠 Author
 
 **[Adeeb Alqahtani]**  
-🛰 Software Integration Engineer – Flight Simulation  
-🔗 [LinkedIn](https://www.linkedin.com/in/your-profile)  
+🛰 Software Integration Engineer
+🔗 [LinkedIn](https://www.linkedin.com/in/adalqahtani)  
 🌐 [Website](https://theadeeb.com)

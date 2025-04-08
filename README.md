@@ -1,5 +1,5 @@
 # HostJet 🚀  
-**Joystick-Driven Host Emulator for CIGI-Compliant Aircraft Simulation with Integrated User Interface**
+** Host Emulator for CIGI-Compliant Aircraft Simulation with Integrated User Interface**
 
 
 ![Host Emulator UI](./HostemulatorUI.png)
